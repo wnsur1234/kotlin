@@ -24,6 +24,11 @@ class Coffee(
         this.name = "$name 님"
         this.price = price * 100
     }
+    
+    // 부생성자
+    constructor(name:String) : this(name, 0){
+        println("부생성자 호출")
+    }
 
     override fun toString(): String {
         return "Coffee(name='$name', price=$price, stock=$stock, totalSalesCnt=$totalSalesCnt)"
@@ -34,7 +39,8 @@ fun main(){
     // val americano = Coffee("아메리카노", 1000, 0,  100 )
     // val americano = Coffee("아메리카노", 1000)
     // val americano = Coffee("아메리카노", 1000, 10)
-    val americano = Coffee("아메리카노", 1000, totalSalesCnt = 100 )
+    //val americano = Coffee("아메리카노", 1000, totalSalesCnt = 100 )
+    val americano = Coffee("아메리카노")
     println(americano)
 }
 

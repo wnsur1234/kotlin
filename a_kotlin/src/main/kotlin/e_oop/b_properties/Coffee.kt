@@ -45,7 +45,6 @@ fun main(){
     americano.name = "americano"
     println(americano.name)
     americano.addTotalSalesCnt(10)
-    println(americano.totalSalesCnt)
 
 }
 

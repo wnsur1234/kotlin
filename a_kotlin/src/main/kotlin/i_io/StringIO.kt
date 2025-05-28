@@ -8,7 +8,8 @@ private val directory = "file"
 fun main(){
     //createFile()
     //readFile()
-    readFileWithForeachLine()
+    //readFileWithForeachLine()
+    readText()
 }
 
 private fun createFile(){
@@ -36,4 +37,9 @@ private fun readFileWithForeachLine(){
     println("\n 3. 파일 읽기")
     File("$directory/$fileName")
         .forEachLine { println(it) }
+}
+
+private fun readText(){
+    println("\n 4. 파일 읽기")
+    println(File("$directory/$fileName").readText())
 }

@@ -16,9 +16,12 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 
+<<<<<<< HEAD
 ### Kotlin ###
 .kotlin
 
+=======
+>>>>>>> 3f5f2703b2e89268ea4c354294ff9c876929b1f7
 ### Eclipse ###
 .apt_generated
 .classpath

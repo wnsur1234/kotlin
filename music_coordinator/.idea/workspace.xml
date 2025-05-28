@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="469fe6d9-508f-4512-bb7e-f96261cb3b4f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a_kotlin/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a_kotlin/file/StringIO.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a_kotlin/file/byteIO.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a_kotlin/file/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a_kotlin/src/main/kotlin/a_type/a_type.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a_kotlin/src/main/kotlin/b_operator/a_operator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a_kotlin/src/main/kotlin/b_operator/b_overload.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a_kotlin/src/main/kotlin/c_control/a_if.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a_kotlin/src/main/kotlin/c_control/b_when.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a_kotlin/src/main/kotlin/c_control/c_while.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a_kotlin/src/main/kotlin/c_control/d_for.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a_kotlin/src/main/kotlin/d_function/a_accessModifier.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a_kotlin/src/main/kotlin/d_function/b_function.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a_kotlin/src/main/kotlin/d_function/run.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a_kotlin/src/main/kotlin/e_oop/a_constructor/Coffee.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a_kotlin/src/main/kotlin/e_oop/b_properties/Coffee.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a_kotlin/src/main/kotlin/e_oop/c_inheritance/Figure.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a_kotlin/src/main/kotlin/e_oop/c_inheritance/FourSquare.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a_kotlin/src/main/kotlin/e_oop/c_inheritance/Rectangle.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a_kotlin/src/main/kotlin/e_oop/c_inheritance/Run.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a_kotlin/src/main/kotlin/e_oop/d_interface/Encrypt.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a_kotlin/src/main/kotlin/e_oop/d_interface/HTTP.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a_kotlin/src/main/kotlin/e_oop/d_interface/HTTPS.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a_kotlin/src/main/kotlin/e_oop/d_interface/Run.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a_kotlin/src/main/kotlin/e_oop/d_interface/SMTP.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a_kotlin/src/main/kotlin/e_oop/d_interface/SmartPhone.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a_kotlin/src/main/kotlin/e_oop/d_interface/TCP.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a_kotlin/src/main/kotlin/e_oop/e_dataclass/Run.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a_kotlin/src/main/kotlin/e_oop/f_object/JdbcTemplate.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a_kotlin/src/main/kotlin/e_oop/g_sealed/OrderState.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a_kotlin/src/main/kotlin/e_oop/h_extension/Payment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a_kotlin/src/main/kotlin/e_oop/h_extension/Translate.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a_kotlin/src/main/kotlin/e_oop/i_delegating/Coffee.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a_kotlin/src/main/kotlin/e_oop/i_delegating/Drink.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a_kotlin/src/main/kotlin/e_oop/i_delegating/decorator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a_kotlin/src/main/kotlin/e_oop/i_delegating/delegating.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a_kotlin/src/main/kotlin/e_oop/j_typealias/a_typealias.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a_kotlin/src/main/kotlin/f_error/_Exception.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a_kotlin/src/main/kotlin/g_nullcheck/a_nullCheck.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a_kotlin/src/main/kotlin/h_collection/A_collection.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a_kotlin/src/main/kotlin/h_collection/B_extension.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a_kotlin/src/main/kotlin/i_io/ByteIO.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a_kotlin/src/main/kotlin/i_io/File.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a_kotlin/src/main/kotlin/i_io/StringIO.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a_kotlin/src/main/kotlin/j_coroutine/A_Coroutin.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a_kotlin/src/test/kotlin/h_collection/B_extensionKtTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/grepp/music/infra/ytdlp/YtlpExecutor.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/com/grepp/music/infra/ytdlp/YtlpExecutorTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a_kotlin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../a_kotlin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a_kotlin/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../a_kotlin/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a_kotlin/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../a_kotlin/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a_kotlin/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../a_kotlin/.idea/kotlinc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a_kotlin/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../a_kotlin/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a_kotlin/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../a_kotlin/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a_kotlin/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../a_kotlin/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a_kotlin/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../a_kotlin/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/kotlin/com/grepp/music/domain/dowload/MusicDownloadTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/com/grepp/music/domain/dowload/MusicDownloadTest.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2xiSJG4Hu2BqShf8ggY5ECy5yPQ" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Merging main",
+    "last_opened_file_path": "C:/Users/wnsur/Desktop/[BE6] 백엔드 파일/Backend_BE/g_kotlin/music_coordinator",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.23774.435" />
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-IU-251.23774.435" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="469fe6d9-508f-4512-bb7e-f96261cb3b4f" name="Changes" comment="" />
+      <created>1748419326211</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748419326211</updated>
+      <workItem from="1748419327386" duration="444000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
